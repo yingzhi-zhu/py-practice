@@ -137,3 +137,30 @@ import string
 """
 元组
 """
+# tup1 = ("朱", 1, "杨九日", "王小强")
+# tup2 = ("朱", 1, "杨九日", "王小强")
+# print("tup1的长度为%d" % len(tup1))
+# print("tup1[0]:", tup1[0])
+# print("tup1[2:5]:", tup1[2:5])
+# print("tup1+tup2", tup1+tup2)
+
+"""
+字典 map
+"""
+# dict1 = {'Alice': '2341', 'Beth': '9102', 'Cecil': '3258'}
+# dict2 = {123: '2341', 1233: '9102', "365": '3258'}
+# print("dict1[0]", dict1["Alice"])
+# print("dict2[0]", dict2[123])
+# print("dict2[2]", dict2["365"])
+# # 添加元素
+# dict1["heheda"] = "memeda"
+# dict1["memeda"] = "heheda"
+# print("dict1[heheda]", dict1["heheda"])
+#
+#
+# del dict1["heheda"]
+# # print("dict1[heheda]", dict1["heheda"])
+# dict2.clear()
+# print("dict2", dict2)
+# del dict2
+# print("dict2", dict2)
