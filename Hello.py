@@ -2,6 +2,8 @@ import math
 import random
 import string
 
+import ProcessPractise
+
 """
 基本类型练习
 """
@@ -164,3 +166,6 @@ import string
 # print("dict2", dict2)
 # del dict2
 # print("dict2", dict2)
+
+# 模块导入
+ProcessPractise.fibonacci(10)
